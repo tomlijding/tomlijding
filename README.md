@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @tomlijding
-- I am student currently studying the Master Systems and Control. I am interested in MPC, specifically applied to sustainability projects such as offshore wind farms and large energy infrastructure.
-- 🌱 I’m currently learning the ins and outs of Control Theory, Statistical Signal Processing and Optimization.
+# Tom Lijding
+
+## Who I am
+I am a student currently studying the Master Systems and Control at the Delft University of Technology. I am interested in the intersection of AI, dynamical systems theory and control.
+
+## Beyond tech
+In my free time I enjoy cooking, kickboxing and reading. Some highlights include kickboxing at the yearly Albertus Magnus Kickboksgala, organizing a cooking competition for my student association and regular meals with friends where I can subject them to my experiments.
+
+
 - 📫 How to reach me:
 -   Email: tomlijding@gmail.com
 <!---
