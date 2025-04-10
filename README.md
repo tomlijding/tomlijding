@@ -9,8 +9,8 @@ In my free time I enjoy cooking, kickboxing and reading. Some highlights include
 
 ## Contact information
 Please reach out to me via any of my socials if you are interested in my work or would like to have a friendly discussion!
-- [t.s.lijding@student.delft.nl](Email)
-- [https://www.linkedin.com/in/tomlijding/](LinkedIn)
+- [Email](t.s.lijding@student.delft.nl)
+- [LinkedIn](https://www.linkedin.com/in/tomlijding/)
 
 <!---
 tomlijding/tomlijding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
