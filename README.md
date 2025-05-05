@@ -1,7 +1,7 @@
 # Tom Lijding
 
 ## Who I am
-I am a student currently studying the Master Systems and Control at the Delft University of Technology. I am interested in the intersection of AI, dynamical systems theory and control.
+I am a student currently studying the Master Systems and Control at the Delft University of Technology. I am interested in the intersection of AI, dynamical systems theory of both classical and quantum systems and control.
 
 ## Beyond tech
 In my free time I enjoy cooking, kickboxing and reading. Some highlights include kickboxing at the yearly Albertus Magnus Kickboksgala, organizing a cooking competition for my student association and regular meals with friends.
